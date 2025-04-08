@@ -1,5 +1,5 @@
 # Flappy_bug
-🐤 Flappy Bird – C++ SDL Version
+🐤 Flappy Bug – C++ SDL Version
 Đây là phiên bản Flappy Bird được lập trình bằng C++, sử dụng thư viện SDL2 để xử lý đồ họa, âm thanh và sự kiện. Game được phát triển như một dự án học tập cho môn Lập trình nâng cao.
 
 📌 Tính năng
