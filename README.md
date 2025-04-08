@@ -44,10 +44,6 @@ Cài đặt các thư viện SDL2 và thêm vào project.
 
 Biên dịch toàn bộ mã nguồn.
 
-📸 Hình ảnh demo
-
-(Thêm ảnh minh họa nếu có)
-
 💡 Tác giả
 
 Tên: Lê Trí Anh
