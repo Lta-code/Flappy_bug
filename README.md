@@ -9,16 +9,16 @@ Giao diện đơn giản, mượt mà với SDL2.
 
 Hiệu ứng âm thanh sống động (nhảy, va chạm, ghi điểm).
 
-Nút bật/tắt âm thanh ngay trong game.
+Nút bật/tắt nhạc ngay trong game.
 
 Hiển thị điểm số hiện tại và cao nhất.
 
 🎮 Cách chơi
-Space hoặc Click chuột trái: Chim bay lên.
+Space hoặc phím Up hoặc Click chuột trái: Chim bay lên.
 
 Tránh va vào các ống và đừng để rơi xuống đất.
 
-Nhấn nút âm thanh để bật/tắt hiệu ứng âm thanh.
+Nhấn nút âm thanh để bật/tắt nhạc.
 
 🛠️ Cài đặt và chạy game
 Yêu cầu:
@@ -32,9 +32,21 @@ SDL2_mixer
 
 SDL2_ttf
 
-Build & Run (trên Windows – Visual Studio hoặc MinGW):
+Build & Run (trên Windows – Visual Studio):
 Cài đặt các thư viện SDL2 và thêm vào project.
 
 Biên dịch toàn bộ mã nguồn.
 
-Chạy file thực thi (.exe).
+📸 Hình ảnh demo
+(Thêm ảnh minh họa nếu có)
+
+💡 Tác giả
+Tên: Lê Trí Anh
+
+Trường: UET
+
+Môn học: Lập trình nâng cao
+
+
+
+
