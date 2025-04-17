@@ -44,6 +44,14 @@ Cài đặt các thư viện SDL2 và thêm vào project.
 
 Biên dịch toàn bộ mã nguồn.
 
+📸 Hình ảnh demo
+
+![1](https://github.com/user-attachments/assets/132276eb-cbbf-4a67-a509-29e724a6b2bc)
+![2](https://github.com/user-attachments/assets/757a85c7-083a-40dc-96f5-800de803227d)
+![3](https://github.com/user-attachments/assets/295cefb4-ecdd-49b8-bbfb-67d5191c3c7b)
+![4](https://github.com/user-attachments/assets/b57a6445-2207-4ef5-98a4-83a3c6076fd3)
+![5](https://github.com/user-attachments/assets/9e927948-085f-4c69-bfbe-d9f16655d0ac)
+
 💡 Tác giả
 
 Tên: Lê Trí Anh
